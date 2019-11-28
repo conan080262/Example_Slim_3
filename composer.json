@@ -3,7 +3,7 @@
     "slim/slim": "^3.12"
   },
   "autoload": {
-    "prs-4": {
+    "psr-4": {
       "App\\": "app/"
     }
   }

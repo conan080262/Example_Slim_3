@@ -1,0 +1,10 @@
+git config --global user.email "codenon@hotmail.com"
+git config --global user.name "conan080262"
+git config --list
+
+first time
+git init
+git add . (back up all)
+git commit -m "first commit"
+git remote add origin https://github.com/conan080262/Example_Slim_3.git
+git push -u origin master
